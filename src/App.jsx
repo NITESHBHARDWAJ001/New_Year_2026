@@ -33,7 +33,7 @@ function App() {
         <QuoteCards />
 
         {/* Compact Social Links - "By Nitesh Sharma" at the end */}
-        <Links />
+        
 
         {/* Footer */}
         <Footer />
